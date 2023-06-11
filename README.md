@@ -29,7 +29,7 @@
 
 <div>
   <p align="center">
-    <img src="https://gpvc.arturio.dev/miruashvili111" height=24 />
+<!--     <img src="https://gpvc.arturio.dev/miruashvili111" height=24 /> -->
     <a href="https://www.linkedin.com/in/giorgi-miruashvili/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=24 />
     </a>
